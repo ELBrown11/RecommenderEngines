@@ -17,5 +17,5 @@ The project implements multiple recommendation techniques:
 ## 📂 Project Structure
 ```
 ├── data/                     # Dataset files
-├── Recommendation_with_IBM.ipynb  # Main Jupyter Notebook
+├── Recommendations_with_IBM.ipynb  # Main Jupyter Notebook
 └── README.md                 # Project documentation
